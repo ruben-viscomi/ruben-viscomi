@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ruben-viscomi
 - 👀 I’m interested in software development and problem solving in general.
-- 🌱 I’m currently learning DL, ReactJS, Rust, Matplotlib, ASP.NET core.
+- 🌱 I’m currently learning "Conceptual stuff".
 <!--- 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me ruben.viscomi.dev@gmail.com
 
